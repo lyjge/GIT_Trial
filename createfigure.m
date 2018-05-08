@@ -20,3 +20,4 @@ box(axes1,'on');
 % Set the remaining axes properties
 set(axes1,'XMinorTick','on','XScale','log','YMinorTick','on','YScale','log');
 
+% 2nd version
