@@ -21,4 +21,3 @@ box(axes1,'on');
 set(axes1,'XMinorTick','on','XScale','log','YMinorTick','on','YScale','log');
 
 % 2nd version
-% 3rd version
